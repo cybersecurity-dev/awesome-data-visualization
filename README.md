@@ -1,6 +1,6 @@
 <div align="center">
 
-# **`Awesome`** Data Visualization [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** Data [Visualization](https://wikipedia.org/wiki/Data_and_information_visualization) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
